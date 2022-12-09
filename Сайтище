@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <div>
+        <a>ИНФОРМАЦИЯ</a>
+        <a>ФОТО И ВИДЕО</a>
+        <a>КАРТА ШТАТА</a>
+        <a>ГОСТИНЦЫ</a>
+    </div>
+</header>
+    <section>
+    <h1>Седона-небольшой городок в аризоне, заслуживающий большего!</h1>
+        <h2>Рассмотрпим 5 причин по которым седона круче, чем гранд каньон</h2>
+            <ul>
+                <li>
+                    <h3>Настоящий городок</h3>
+                    <p>Седона не аттракцион для туристов, там течёт своя жизнь</p>
+                </li>
+                <li>
+
+                </li>
+
+            </ul>
+                <li>
+                <h2></h2>
+            </li>
+    </section>
+
+</body>
+</html>
